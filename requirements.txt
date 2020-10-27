@@ -15,7 +15,7 @@ chardet==3.0.4
 clyent==1.2.1
 conda==4.3.16
 constantly==15.1.0
-cryptography==2.8
+cryptography==3.2
 cssselect==1.1.0
 cycler==0.10.0
 enum34==1.1.6

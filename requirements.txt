@@ -38,7 +38,7 @@ matplotlib==2.2.3
 mock==2.0.0
 more-itertools==5.0.0
 numpy==1.14.4
-opencv-python==3.4.3.18
+opencv-python==4.2.0.32
 pandas==0.23.0
 parsel==1.5.2
 pbr==4.2.0
